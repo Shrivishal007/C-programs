@@ -30,12 +30,12 @@ C is one of the most widely taught programming languages due to its performance,
 | Topic                                                        | Description                                                                                           |
 | -----------------------------                                | ----------------------------------------------------------------------------------------------------- |
 | [**Basics**](Basics)                                         | Introduction to C syntax, structure, and simple input/output operations.                              |
-| [**Control Statements**](Control Statements)                 | Explains conditional logic with `if`, `else` and `switch` statements.                                 |
+| [**Control Statements**](Control%20Statements)                 | Explains conditional logic with `if`, `else` and `switch` statements.                                 |
 | [**Loops**](Loops)                                           | Covers `for`, `while`, and `do...while` loops for iteration.                                          |
 | **1D Array**                                                 | Covers declaration, initialization, and traversal of single-dimensional arrays.                       |
-| [**2D Array**]("2D Array")                                   | Demonstrates working with two-dimensional arrays (matrices), including element access and operations. |
+| [**2D Array**]("2D%20Array")                                   | Demonstrates working with two-dimensional arrays (matrices), including element access and operations. |
 | **String**                                                   | Demonstrates string handling using arrays and string library functions.                               |
-| [**Dynamic Memory Allocation**](Dynamic Memory Allocation)   | Teaches dynamic memory management using `malloc`, `calloc`, `realloc`, and `free`.                    |
+| [**Dynamic Memory Allocation**](Dynamic%20Memory%20Allocation)   | Teaches dynamic memory management using `malloc`, `calloc`, `realloc`, and `free`.                    |
 | [**Functions**](Functions)                                   | Shows how to define and use user-defined functions to modularize code.                                |
 | [**Pointers**](Pointers)                                     | Introduces pointer concepts such as memory addresses, dereferencing, and pointer arithmetic.          |
 | [**Struct**](Struct)                                         | Explains how to define and use structures to group related variables.                                 |
