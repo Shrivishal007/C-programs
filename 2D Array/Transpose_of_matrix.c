@@ -1,5 +1,4 @@
 // Write a program to find the transpose of a matrix.
-// Write a program to multiply two matrices
 #include <stdio.h>
 
 int main()
