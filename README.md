@@ -9,7 +9,7 @@ Welcome to the **Simple C Programs** repository — a curated collection of basi
 1. [🔍 About This Project](#-about-this-project)
 3. [🧠 Topics Covered](#-topics-covered)
 4. [⚙️ How to Compile & Run](#️-how-to-compile--run)
-5. [🤝 Contributing](#-contributing)
+5. [🤝 Contribution](#-contribution)
 6. [📄 License](#-license)
 
 ---
@@ -66,7 +66,7 @@ gcc program.c -o program.exe
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
 Contributions are welcome! If you have an idea for a new program or want to improve existing code:
 
@@ -89,6 +89,7 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 ❗ Attribution required — keep the license notice in all copies
 
 👨‍💻 Author
+
 Created with ❤️ by Shrivishal.
 
 If you found this helpful, feel free to star ⭐ the repository or share it with others!
