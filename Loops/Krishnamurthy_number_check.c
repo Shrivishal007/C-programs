@@ -1,6 +1,5 @@
 /* Write a program to check whether a given number is krishnamurthi number or not. 
 For eg:145=1! + 4! +5!=145 */
-
 #include <stdio.h>
 
 int main()

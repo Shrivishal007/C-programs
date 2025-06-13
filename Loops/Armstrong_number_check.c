@@ -1,6 +1,5 @@
 /* Write a program to check whether a given number is Armstrong or not.
 For eg:153 =  1^3 + 5^3 + 3^3 = 153 */
-
 #include <stdio.h>
 // #include <math.h>
 

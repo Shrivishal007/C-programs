@@ -1,6 +1,5 @@
 /* Write a program to print the multiplication table of a given number. 
 (1*1=1 . . . . . .  1*10=10 ) */
-
 #include <stdio.h>
 
 int main()

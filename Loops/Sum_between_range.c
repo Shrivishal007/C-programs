@@ -1,5 +1,4 @@
 // Write a program to find the sum of numbers lying between 2 limits
-
 #include <stdio.h>
 
 int main()

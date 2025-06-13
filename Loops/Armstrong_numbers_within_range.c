@@ -1,5 +1,4 @@
 // Write a program to generate all the Armstrong number within a range
-
 #include <stdio.h>
 #include <math.h>
 
