@@ -1,5 +1,4 @@
 // Program to calculate the factorial of a number using recursion.
-
 #include <stdio.h>
 
 int factorial(int num)

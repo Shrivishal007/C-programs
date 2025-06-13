@@ -2,7 +2,6 @@
 #include <string.h>
 #include <ctype.h>
 
-
 int valid_password(char pass[10])
 {
     int len = strlen(pass), has_upper = 0, has_lower = 0, has_digit = 0, has_special = 0;
