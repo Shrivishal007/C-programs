@@ -1,5 +1,4 @@
 // Write a program to demonstrate Arithmetic operation (ADD ( +) ,SUB ( - ),MUL( * ),DIV( / ),MOD( % ))
-
 #include <stdio.h>
 
 int main()

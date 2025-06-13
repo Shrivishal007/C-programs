@@ -1,5 +1,4 @@
 // Write a program to swap the values of two variables with using temp variable and without using temp variable
-
 #include <stdio.h>
 
 int main()
